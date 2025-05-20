@@ -1,4 +1,4 @@
-/*
+
   Project: Tic-Tac-Toe Web Game
   -----------------------------
   Description:
@@ -25,4 +25,4 @@
 
   Author: Medikonda Susmitha
   Date: May 2025
-*/
+
