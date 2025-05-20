@@ -23,6 +23,6 @@
   - CSS3 for styling and layout
   - Vanilla JavaScript for logic and interactivity
 
-  Author: Your Name
+  Author: Medikonda Susmitha
   Date: May 2025
 */
